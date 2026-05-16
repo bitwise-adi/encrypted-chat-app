@@ -125,13 +125,15 @@ Lucky: [Encrypted Message]
 + User authentication (username + password)
 + Cloud deployment for remote access
 
-### 👨‍💻 Developer
-Field	        Info
-Project Name	NOVA — Secure Chat Application
-Developer	    Aditya Raj
-Language	    Python
-Version     	1.0
-GitHub      	github.com/adityaraj-codes/encrypted-chat-app
+### 👨‍💻 Developers
+
+| Field | Info |
+|---|---|
+| **Project Name** | NOVA — Secure Chat Application |
+| **Developers** | Aditya Raj, Lucky Sinha, Manik Salarai, Md Huzayfah Daniyal |
+| **Language** | Python |
+| **Version** | 1.0 |
+| **GitHub** | github.com/adityaraj-codes/encrypted-chat-app |
 
 ### 🧠 Inspiration
 This project was built to understand the integration of network sockets, threading, and encryption in real-world secure communication.
